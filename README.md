@@ -23,7 +23,7 @@ Display a list of flagged transactions, ordered from newest to oldest. Each tran
 - Amount
 - Flagged Reason
 
-The JSON representation needed to display this can be found in this repository as 'transactions.json'
+The JSON representation needed to display this can be found in this repository as `transactions.json`
 
 ### 2. Action Buttons
 Provide two action buttons for each transaction:
