@@ -1,9 +1,9 @@
 # Asset Management Compliance Review System
 
 ## Background
-You are a programmer for an asset management firm. The compliance team has implemented an advanced model for flagging potentially non-compliant investment transactions on the secondary market system. These flagged transactions require manual review. This is just a toy app, to be used to learn more about your programming and technical design skills.
+You are a programmer for an asset management firm. The compliance team has implemented an advanced model for flagging potentially non-compliant investment transactions on the secondary market system. These flagged transactions require manual review. 
 
-We don't care about building a super polished UI - but the challenge is to demonstrate the depth and breadth of your technical knowledge.
+We don't care about building a super polished UI. This is just a toy app, to be used to learn more about your programming and technical design skills.
 
 ## Technical Requirements
 - Backend: C# (.NET Core)
