@@ -42,21 +42,17 @@ Provide two action buttons for each transaction:
 - The UI should reflect changes immediately after a transaction is approved or rejected, without requiring a manual refresh.
 
 ## UI Representation
-The UI should look similar to this
+The UI should look similar to this:
+
 ![image](https://github.com/user-attachments/assets/1f4ec97b-e9a4-4362-859a-e36cb721527d)
 
-
 ## Evaluation Criteria
-- Code quality
+- Code and testing quality
 - Technical choices
-- Clarity of the UI
 - A runnable full-stack application
 
 ## Time Limit
-Please don't spend more than 4  hours on this challenge.
-
-## Submission
-- Provide the solution source code as a link to a code repository.
+Please don't spend more than 4 hours on this challenge.
 
 ## Note
 If during your implementation you find that something could be designed in multiple different ways, implement the one which seems most reasonable to you. A short (one sentence) explanation of your choice would be appreciated.
